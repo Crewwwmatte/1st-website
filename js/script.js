@@ -1,28 +1,8 @@
 $(window).on('load', function (){
-    $('#header').vide('./video/lel', {
+    $('#header').vide('./video/cover', {
         bgColor: '#1d1d1a'
     })
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
