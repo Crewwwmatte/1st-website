@@ -1,0 +1,113 @@
+@media screen and (max-width: 1439px) {
+    .badges {
+        width: calc(50% - 15px);
+    }
+
+    .footer {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .footer-row {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-col {
+        margin-bottom: 50px;
+    }
+
+    .footer-col:first-child {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 759px) {
+    .center {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .center-header {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+
+    .badges {
+        max-width: 530px;
+        width: 100%;
+    }
+
+    .badges:nth-last-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .portfolio-card_wrp {
+        justify-content: center;
+    }
+
+    .badges-link {
+        padding: 15px;
+    }
+
+    .center-img {
+        margin-bottom: 10px;
+    }
+
+    .badges h3 {
+        font-size: 18px;
+    }
+
+    .left {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .left p {
+        font-size: 14px;
+    }
+
+    .mid-icons {
+        font-size: 14px;
+    }
+
+    .right {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .project-button-back-to-main {
+        margin-bottom: 60px;
+    }
+
+
+    .project-header {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+
+    .project-img {
+        margin-bottom: 20px;
+    }
+
+    .project-description {
+        margin-bottom: 50px;
+    }
+
+    .project-button-back-to-main {
+        padding: 0 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .project-button-back-to-main a {
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+
+    .project {
+        margin: 0;
+    }
+
+}
