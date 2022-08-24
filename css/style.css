@@ -219,7 +219,7 @@ h3 {
     font-weight: 700;
     font-size: 16px;
     text-decoration: none;
-    transition: background, color 0.15s ease-in;
+    transition: 0.1s ease-in;
 }
 
 .right-button:hover {
@@ -302,7 +302,7 @@ h3 {
     padding: 20px 30px;
     border: 3px solid #1D1D1AFF;
     border-radius: 50px;
-    transition: color, background 0.15s ease-in;
+    transition: 0.1s ease-in;
 }
 
 .project-button-back-to-main a:hover{
